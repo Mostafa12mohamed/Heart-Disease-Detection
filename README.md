@@ -1,5 +1,5 @@
 # Heart-Disease-Detection
-### Mid Final Proejct at Nti Ai Summer Training 
+### Proejct at Nti Ai Summer Training 
 In this project, I explored various machine learning and data preprocessing techniques including:
 - Decision Tree
 - Support Vector Machine (SVM)
